@@ -4,6 +4,7 @@ A Data Analysis project that explores how matches are won and lost across differ
 - PowerPlay overs (1-6)
 - Middle Overs (7-15)
 - Death Overs (16-20)
+
 Instead of looking only at final scores and toss results, this project analyzes ball-by-ball data to uncover patterns in team performance, venue behavior, and player impact.
 
 **Project Goal:**
