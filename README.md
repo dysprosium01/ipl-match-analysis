@@ -1,11 +1,13 @@
 **IPL Phase-Wise Tactical Match Analysis** 
-A Data Analysis project that explores how matches are won and lost across different innings phases  
+
+A Data Analysis project that explores how matches are won and lost across different innings phases;
 - PowerPlay overs (1-6)
 - Middle Overs (7-15)
 - Death Overs (16-20)
 Instead of looking only at final scores and toss results, this project analyzes ball-by-ball data to uncover patterns in team performance, venue behavior, and player impact.
 
 **Project Goal:**
+
 Most IPL analysis focuses on:
 - Average scores
 - Toss outcomes
@@ -19,6 +21,7 @@ This project tries to answer deeper questions:
 - How much does a wicket affect scoring momentum?
 
 **Tech Stack:**
+
 - Python
 - Pandas
 - NumPy
@@ -27,6 +30,7 @@ This project tries to answer deeper questions:
 - Streamlit
 
 **Key Analytical Features:**
+
 - Toss Impact Analysis:
 A common belief in cricket is that winning the toss provides a significant advantage.
 This part compares match outcomes across IPL seasons and shows that toss alone have a limited impact on winning. Team performance during different phases of the match plays a much larger role.
