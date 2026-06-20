@@ -1,4 +1,4 @@
-**IPL Phase-Wise Tactical Match Analysis** 
+# **IPL Phase-Wise Tactical Match Analysis** 
 
 [Open Streamlit Dashboard](https://ipl-match-analysis-bqem4u69xxkukrbdspcg3o.streamlit.app/)
 
