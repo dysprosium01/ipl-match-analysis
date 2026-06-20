@@ -11,7 +11,7 @@ plt.style.use("dark_background")
 # DATA LOADING
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\dhrum\Documents\ipl crunch hackathon\ipl_dataset.csv", low_memory=False)
+    df = pd.read_csv("ipl_dataset.csv", low_memory=False)
     def get_phase(over):
         if over < 6:
             return "Powerplay"
