@@ -1,4 +1,6 @@
-**IPL Phase-Wise Tactical Match Analysis** 
+# **Phase-Wise IPL Tactical Match Analysis** 
+
+[Open Streamlit Dashboard](https://ipl-match-analysis-bqem4u69xxkukrbdspcg3o.streamlit.app/)
 
 A Data Analysis project that explores how matches are won and lost across different innings phases;
 
